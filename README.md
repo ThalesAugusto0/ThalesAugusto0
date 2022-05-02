@@ -9,7 +9,7 @@ Estou aprendendo a programar há 2 anos, depois de mudar de carreira, Comecei co
 * 🌍  Eu moro em Teixeira de Freitas, BA
 * ✉️  Você pode entrar em contato comigo [thalesaugusto3@icloud.com](mailto:thalesaugusto3@icloud.com)
 * 🧠  Eu estou aprendendo Swift, React, JS, NodeJS
-* 🤝  Estou aberto a colabora com projetos interessantes, que me desafiam e que eu possa aprender bastante com a equipe
+* 🤝  Estou aberto a colaborar com projetos interessantes, que me desafiam e que eu possa aprender bastante com a equipe
 * ⚡  Busco desenvolver ainda mais minhas habilidades com programação.
 
 <a href="https://www.twitter.com/ThalesAugusto54" target="_blank" rel="noreferrer"><img
