@@ -4,11 +4,13 @@ Olá 👋 Meu nome é Thales Augusto
 Desenvolvedor Web e mobile
 --------------------------
 
-Estou aprendendo a programar há 2 anos, depois de mudar de carreira, Comecei com Python, mas atualmente trabalho com JavaScript, NodeJS e Angular.
+Estou aprendendo a programar há 2 anos, depois de mudar de carreira. <br>
+Comecei com Python, mas atualmente trabalho com JavaScript, NodeJS e AngularJS. Porém estudo TypeScript, React, GraphQL, Express e MySQL. <br>
+Estou estudando Blockchain e Smart contracts no Ethereum e Solana, com projetos em desenvolvimento no DeFi UniSwap.
 
 * 🌍  Eu moro em Teixeira de Freitas, BA
 * ✉️  Você pode entrar em contato comigo [thalesaugusto3@icloud.com](mailto:thalesaugusto3@icloud.com)
-* 🧠  Eu estou aprendendo TypeScript, React, JS, NodeJS
+* 🧠  Eu estou aprendendo TypeScript, React, JavaScript, NodeJS, GraphQL, Express, MySQL e Solidity.
 * 🤝  Estou aberto a colaborar com projetos interessantes, que me desafiam e que eu possa aprender bastante com a equipe
 * ⚡  Busco desenvolver ainda mais minhas habilidades com programação.
 
@@ -25,7 +27,6 @@ src="https://img.shields.io/github/followers/ThalesAugusto0?logo=github&style=fo
 <a href="https://pt-br.reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://angular.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/angularjs-colored.svg" width="36" height="36" alt="Angular" /></a>
 <a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a>
 <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
 <a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored-dark.svg" width="36" height="36" alt="Express" /></a>
