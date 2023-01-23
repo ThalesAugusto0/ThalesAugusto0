@@ -1,7 +1,7 @@
 Olá 👋 Meu nome é Thales Augusto
 ===============================
 
-Desenvolvedor Web e mobile
+Desenvolvedor Full Stack
 --------------------------
 
 Estou aprendendo a programar há 2 anos, depois de mudar de carreira. <br>
