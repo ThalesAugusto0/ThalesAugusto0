@@ -3,14 +3,11 @@ Olá 👋 Meu nome é Thales Augusto
 
 Desenvolvedor Full Stack
 --------------------------
-
-Estou aprendendo a programar há 2 anos, depois de mudar de carreira. <br>
-Comecei com Python, mas atualmente trabalho com JavaScript, NodeJS e AngularJS. Porém estudo TypeScript, React, GraphQL, Express e MySQL. <br>
-Estou estudando Blockchain e Smart contracts no Ethereum e Solana, com projetos em desenvolvimento no DeFi UniSwap.
+Comecei com Python, mas atualmente trabalho com JavaScript, NodeJS e AngularJS. Porém estudo TypeScript, React, Express e MySQL. <br>
 
 * 🌍  Eu moro em Teixeira de Freitas, BA
 * ✉️  Você pode entrar em contato comigo [thalesaugusto3@icloud.com](mailto:thalesaugusto3@icloud.com)
-* 🧠  Eu estou aprendendo TypeScript, React, JavaScript, NodeJS, GraphQL, Express, MySQL e Solidity.
+* 🧠  Eu estou aprendendo TypeScript, React, JavaScript, NodeJS, GraphQL, Express, MySQL.
 * 🤝  Estou aberto a colaborar com projetos interessantes, que me desafiam e que eu possa aprender bastante com a equipe
 * ⚡  Busco desenvolver ainda mais minhas habilidades com programação.
 
