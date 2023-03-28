@@ -11,10 +11,8 @@ Comecei com Python, mas atualmente trabalho com JavaScript, NodeJS e AngularJS. 
 * 🤝  Estou aberto a colaborar com projetos interessantes, que me desafiam e que eu possa aprender bastante com a equipe
 * ⚡  Busco desenvolver ainda mais minhas habilidades com programação.
 
-<a href="https://www.twitter.com/ThalesAugusto54" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/ThalesAugusto54?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
-/></a><a href="https://www.github.com/ThalesAugusto0" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/ThalesAugusto0?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+## 🔗 Link
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://thalesasaraujo.dev/)
 
 ### Skills
 
