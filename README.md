@@ -1,26 +1,36 @@
-Olá 👋 Meu nome é Thales Augusto
-===============================
+# Olá, eu sou o Thales Augusto! 👋
 
-Desenvolvedor Full Stack
---------------------------
-Comecei com Python, mas atualmente trabalho com JavaScript, NodeJS e AngularJS. Porém estudo TypeScript, React, Express e MySQL. <br>
+## 🚀 Sobre mim
 
-* 🌍  Eu moro em Teixeira de Freitas, BA
-* ✉️  Você pode entrar em contato comigo [thalesaugusto3@icloud.com](mailto:thalesaugusto3@icloud.com)
-* 🧠  Eu estou aprendendo TypeScript, React, JavaScript, NodeJS, GraphQL, Express, MySQL.
-* 🤝  Estou aberto a colaborar com projetos interessantes, que me desafiam e que eu possa aprender bastante com a equipe
-* ⚡  Busco desenvolver ainda mais minhas habilidades com programação.
+Sou desenvolvedor full-stack, atualmente trabalho na empresa [Adsoft](https://www.adsoft.com.br/), nessa empresa trabalho com AngulaJs, React, Back-end NodeJs e C#.
+Estou em constante aprendizado, atualmente estou cursando React, React Native e NodeJS pela [RocketSeat](https://www.rocketseat.com.br/)
 
-## 🔗 Link
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://thalesasaraujo.dev/)
+## 🛠 Habilidades
 
-### Skills
+Javascript, TypeScritp, React, React Native, NodeJs.
+
+## 🔗 Links
+
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://katherineoelsner.com/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
+
+## Outras seções comuns em perfis do GitHub
+
+🌍  Eu moro em Teixeira de Freitas, BA
+
+🤝  Estou aberto a colaborar com projetos interessantes, que me desafiam e que eu possa aprender bastante com a equipe
+
+⚡  Busco desenvolver ainda mais minhas habilidades com programação.
+
+✉️  Você pode entrar em contato comigo [thalesaugusto3@icloud.com](mailto:thalesaugusto3@icloud.com)
+
+## Skills
 
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
 <a href="https://pt-br.reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
 <a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a>
 <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
@@ -30,20 +40,6 @@ Comecei com Python, mas atualmente trabalho com JavaScript, NodeJS e AngularJS. 
 </p>
 
 
-### Socials
-
-<p align="left"> <a href="https://discord.com/users/3929" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/ThalesAugusto0" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/thalesaugusto72" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/thales-augusto-silva-araujo-3b7836162" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/16607212" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/ThalesAugusto54" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
-
-[//]: <> (### Badges)
-
-[//]: <> (<b>Meu status do GitHub</b>)
-
-[//]: <> (<a href="http://www.github.com/ThalesAugusto0"><img src="https://github-readme-stats.vercel.app/api?username=ThalesAugusto0&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="ThalesAugusto0's GitHub stats" /></a>)
-
-[//]: <> (<a href="http://www.github.com/ThalesAugusto0"><img src="https://activity-graph.herokuapp.com/graph?username=ThalesAugusto0&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>)
-
-[//]: <> (<a href="https://github.com/ThalesAugusto0" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThalesAugusto0&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>)
-<br/>
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
 </p>
