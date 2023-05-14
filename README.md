@@ -5,6 +5,14 @@
 Sou desenvolvedor full-stack, atualmente trabalho na empresa [Adsoft](https://www.adsoft.com.br/), nessa empresa trabalho com AngulaJs, React, Back-end NodeJs e C#.
 Estou em constante aprendizado, atualmente estou cursando React, React Native e NodeJS pela [RocketSeat](https://www.rocketseat.com.br/)
 
+🌍  Eu moro em Teixeira de Freitas, BA
+
+🤝  Estou aberto a colaborar com projetos interessantes, que me desafiam e que eu possa aprender bastante com a equipe
+
+⚡  Busco desenvolver ainda mais minhas habilidades com programação.
+
+✉️  Você pode entrar em contato comigo [thalesaugusto3@icloud.com](mailto:thalesaugusto3@icloud.com)
+
 ## 🛠 Habilidades
 
 Javascript, TypeScritp, React, React Native, NodeJs.
@@ -15,16 +23,6 @@ Javascript, TypeScritp, React, React Native, NodeJs.
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thales-augusto-silva-araujo/)
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ThalesAugusto54)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](http://www.instagram.com/thalesaugusto72)
-
-## Outras seções comuns em perfis do GitHub
-
-🌍  Eu moro em Teixeira de Freitas, BA
-
-🤝  Estou aberto a colaborar com projetos interessantes, que me desafiam e que eu possa aprender bastante com a equipe
-
-⚡  Busco desenvolver ainda mais minhas habilidades com programação.
-
-✉️  Você pode entrar em contato comigo [thalesaugusto3@icloud.com](mailto:thalesaugusto3@icloud.com)
 
 ## Skills
 
