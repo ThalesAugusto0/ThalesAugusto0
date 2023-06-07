@@ -17,13 +17,6 @@ Estou em constante aprendizado, atualmente estou cursando React, React Native e 
 
 Javascript, TypeScritp, React, React Native, NodeJs.
 
-## 🔗 Links
-
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://www.thalesasaraujo.dev)	
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thales-augusto-silva-araujo/)
-[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ThalesAugusto54)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](http://www.instagram.com/thalesaugusto72)
-
 ## Skills
 
 <p align="left">
